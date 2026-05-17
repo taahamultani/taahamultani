@@ -9,8 +9,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taahamultani&show_icons=true&locale=en" alt="taahamultani" /> </p>
 -->
 
-<!-- Me at [Work](https://github.com/taahab)
--->
-
-
-
+Me at [work](https://github.com/taahab)
